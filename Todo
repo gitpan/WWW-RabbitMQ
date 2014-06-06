@@ -1,0 +1,5 @@
+TODO list for Perl module WWW::RabbitMQ
+
+- Add Tests
+- Add Federation and support for other modules
+
